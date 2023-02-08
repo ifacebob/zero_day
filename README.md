@@ -1,1 +1,1 @@
-We are clonning our repo
+We are about to clone our repo
